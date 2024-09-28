@@ -60,8 +60,8 @@ const letters = [
 const numbers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"];
 const symbols = ["!", "#", "$", "%", "&", "(", ")", "*", "+"];
 const inputPrompts = [
-  "quantos simbolos quer adicionar ?",
-  "quantos numeros quer adicionar ?",
+  "Quantos símbolos quer adicionar?",
+  "Quantos números quer adicionar?",
 ];
 
 //Click Run
