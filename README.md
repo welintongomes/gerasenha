@@ -1,6 +1,5 @@
-este é um aplicativo simples que gera senhas com caracteres especiais letras e numeros
---------------------------------------------------------------------------------------------
-
+este é um aplicativo simples que gera senhas com caracteres especiais letras e números
+--------------------------------------------------------------------------------------
 para conpartilhar
 
     
